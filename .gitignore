@@ -1,0 +1,5 @@
+# Ignores the dotenv file which has the environment variables
+.env
+
+# Ignores the default NodeJS modules and libraries.
+node_modules/

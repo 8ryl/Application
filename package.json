@@ -1,0 +1,17 @@
+{
+  "name": "palace-app",
+  "version": "1.0.0",
+  "description": "Our own custom Discord app!",
+  "main": "index.js",
+  "scripts": {
+    "init": "node Application/index.js"
+  },
+
+  "type": "module",
+  "author": "pryle",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.3"
+  }
+}
