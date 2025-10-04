@@ -3,3 +3,4 @@
 
 # Ignores the default NodeJS modules and libraries.
 node_modules/
+.gitignore
